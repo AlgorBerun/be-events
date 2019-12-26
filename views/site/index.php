@@ -18,7 +18,7 @@ $this->title = 'My Yii Application';
                       </div>
                       <nav id="nav-menu-container">
                         <ul class="nav-menu">
-                          <li class="menu-active"><a href="#home">Home</a></li>
+                          <li class="menu-active"><a href="#home">Chito</a></li>
                           <li><a href="#videos">Videos</a></li>
                           <li><a href="#speakers">Speakers</a></li>
                           <li><a href="#schedule">Schedule</a></li>
